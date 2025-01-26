@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1737391050 source:c:\users\user\documents\campus2\market\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<windows.h>
+
